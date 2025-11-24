@@ -1,0 +1,3 @@
+export default function Tickets() {
+  return <div className="p-6">Tickets Page</div>;
+}

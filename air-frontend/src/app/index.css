@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Material You baseline smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Prevent text selection during card drag */
+* {
+  user-select: none;
+}
